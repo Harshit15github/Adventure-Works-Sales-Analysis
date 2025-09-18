@@ -45,5 +45,3 @@ The analysis utilizes the AdventureWorks database, a sample database provided by
 - **DAX**: For creating calculated columns and measures.
 - **Power Query Editor**: For data cleaning and shaping.
 
-   ```bash
-   git clone https://github.com/Harshit15github/Adventure-Works-Sales-Analysis.git
